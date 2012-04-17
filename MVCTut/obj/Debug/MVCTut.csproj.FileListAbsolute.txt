@@ -1,0 +1,7 @@
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\bin\MVCTut.dll
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\bin\MVCTut.pdb
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\bin\EntityFramework.dll
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\bin\EntityFramework.xml
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\obj\Debug\ResolveAssemblyReference.cache
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\obj\Debug\MVCTut.dll
+c:\users\matt-windows\documents\visual studio 2010\Projects\MVCTut\MVCTut\obj\Debug\MVCTut.pdb
